@@ -40,4 +40,4 @@ No backend or database is used. This is a front-end focused project.
   Clean project structure and deployment 
 
                                                                    -- Built by Geethika
-                                                                      Second-Year CSM.
+                                                                      Second-Year Computer Science Student.
