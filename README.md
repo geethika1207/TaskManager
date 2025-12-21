@@ -2,7 +2,7 @@
 A simple and clean task manager built using HTML, CSS, and JavaScript.
 This Frontend Web  app helps users organize tasks by adding due dates, tracking completion status, and managing tasks efficiently with a minimal interface.
  Live Demo :
- https://verdant-marzipan-40461c.netlify.app/
+ https://cheerful-tapioca-999c1d.netlify.app/
  # Features
  1. Add tasks with a due date
  2. Automatically sorts tasks by date
