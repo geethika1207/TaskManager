@@ -23,8 +23,11 @@ This Frontend Web  app helps users organize tasks by adding due dates, tracking 
  5. Tasks are automatically arranged based on the selected date
 # Technologies Used
  1.HTML – structure
+ 
  2.CSS – styling and layout
+ 
  3.JavaScript – logic, DOM manipulation, and local storage
+ 
 No backend or database is used. This is a front-end focused project.
 # Why This Project
   This project was built to practice:
